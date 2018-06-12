@@ -12,3 +12,6 @@
 // git push origin (name of branch)
 //2. git checkout (name of branch)
 //3. You'd want to use a branch if you are part of a team working on different things for the main project (master).  This way you can push changes to the branch without affecting the master.
+
+//1. use git merge when you are combining similar code or functionality, pull when you know the code is solid and should be moved into the master code
+//2. git push
